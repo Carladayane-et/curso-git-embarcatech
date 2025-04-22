@@ -1,0 +1,11 @@
+Lista de comandos usados:
+
+$ git init
+$ git config user.name "Carla"
+$ git config user.email "carladayane856@gmail.com"
+$ git config --list --local
+$ git branch -M main
+$ git add "Arquivo_1.txt"
+$ git commit -m "Primeiro commit"
+$ git remote add origin https://github.com/Carladayane-et/curso-git-embarcatech.git
+$ git push -u origin main
